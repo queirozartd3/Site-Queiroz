@@ -12,18 +12,48 @@ function mostrarPopupCarrinho() {
   
   const produtos = [
 
+{
+      nome: "Roda Lexani Advicate",
+      descricao: "Roda produzida em impressão 3D, feita em resina e sem pintura, com pneus em ABS preto fosco. Disponível para eixo 2 mm, eixo sextavado ou pino adaptador. Suporte de eixo direto no pneu.",
+      imagens: [
+        "Fotos/Rodas/LexaniAdvicate/lexani1.png",
+        "Fotos/Rodas/LexaniAdvicate/lexani2.png",
+        "Fotos/Rodas/LexaniAdvicate/lexani3.png",
+      ],
+      opcoes: [
+  { nome: "Roda 50mm", preco: 55 + 12 },   // pneu estimado ≈ R$12
+  { nome: "Roda 55mm", preco: 65 + 15 },   // = 80
+  { nome: "Roda 60mm", preco: 75 + 18 },   // = 93
+  { nome: "Roda 65mm", preco: 85 + 22 },   // = 107
+  { nome: "Roda 70mm", preco: 95 + 25 },   // = 120
+  { nome: "Roda 75mm", preco: 110 + 30 },  // = 140
+  { nome: "Roda 80mm", preco: 125 + 34 },  // = 159
+  { nome: "Roda 85mm", preco: 140 + 40 },  // = 180
+  { nome: "Roda 90mm", preco: 170 + 45 },  // = 215
+  { nome: "Roda 95mm", preco: 190 + 50 },  // = 240
+  { nome: "Roda 100mm", preco: 220 + 55 }, // = 275
+  { nome: "Roda 105mm", preco: 260 + 65 }, // = 325
+  { nome: "Roda 110mm", preco: 285 + 70 }, // roda estimada ≈ R$285, total = 355
+  { nome: "Roda 115mm", preco: 310 + 80 }, // roda estimada ≈ R$310, total = 390
+  { nome: "Roda 120mm", preco: 380 + 90 }, // = 470
+  { nome: "Roda 125mm", preco: 450 + 95 }, // roda estimada ≈ R$450, total = 545
+  { nome: "Roda 130mm", preco: 520 + 110 } // = 630
+      ]
+    },
+
+
     {
       nome: "Roda DUB S218 sem Pintura",
       descricao: "Roda produzida em impressão 3D, feita em resina e sem pintura, com pneus em ABS preto fosco. Disponível para eixo 2 mm, eixo sextavado ou pino adaptador. Suporte de eixo direto no pneu.",
       imagens: [
         "Fotos/Rodas/Dubs218/dub.png",
         "Fotos/Rodas/Dubs218/dub2.png",
-        "Fotos/Rodas/Dubs218/dub.png",
+        "Fotos/Rodas/Dubs218/dub3.png",
         
       
       ],
       opcoes: [
-         { nome: "Roda 50mm", preco: 55 + 12 },   // pneu estimado ≈ R$12
+  { nome: "Roda 50mm", preco: 55 + 12 },   // pneu estimado ≈ R$12
   { nome: "Roda 55mm", preco: 65 + 15 },   // = 80
   { nome: "Roda 60mm", preco: 75 + 18 },   // = 93
   { nome: "Roda 65mm", preco: 85 + 22 },   // = 107
