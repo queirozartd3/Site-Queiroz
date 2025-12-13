@@ -26,28 +26,29 @@ function mostrarPopupCarrinho() {
 
       ],
       opcoes: [
-  { nome: "Roda 30mm",  roda: 35.00,  pneu: 4.90 },   // 39.90
-  { nome: "Roda 35mm",  roda: 43.00,  pneu: 4.90 },   // 47.90
-  { nome: "Roda 40mm",  roda: 50.00,  pneu: 4.90 },   // 54.90
-  { nome: "Roda 45mm",  roda: 57.00,  pneu: 4.90 },   // 61.90
-  { nome: "Roda 50mm",  roda: 63.00,  pneu: 4.90 },   // 67.90
-  { nome: "Roda 55mm",  roda: 75.00,  pneu: 4.90 },   // 79.90
-  { nome: "Roda 60mm",  roda: 88.00,  pneu: 4.90 },   // 92.90
-  { nome: "Roda 65mm",  roda: 102.00, pneu: 4.90 },   // 106.90
-  { nome: "Roda 70mm",  roda: 115.00, pneu: 4.90 },   // 119.90
-  { nome: "Roda 75mm",  roda: 135.00, pneu: 4.90 },   // 139.90
-  { nome: "Roda 80mm",  roda: 155.00, pneu: 4.90 },   // 159.90
-  { nome: "Roda 85mm",  roda: 175.00, pneu: 4.90 },   // 179.90
-  { nome: "Roda 90mm",  roda: 210.00, pneu: 4.90 },   // 214.90
-  { nome: "Roda 95mm",  roda: 235.00, pneu: 4.90 },   // 239.90
-  { nome: "Roda 100mm", roda: 270.00, pneu: 4.90 },   // 274.90
-  { nome: "Roda 105mm", roda: 320.00, pneu: 4.90 },   // 324.90
-  { nome: "Roda 110mm", roda: 350.00, pneu: 4.90 },   // 354.90
-  { nome: "Roda 115mm", roda: 385.00, pneu: 4.90 },   // 389.90
-  { nome: "Roda 120mm", roda: 465.00, pneu: 4.90 },   // 469.90
-  { nome: "Roda 125mm", roda: 540.00, pneu: 4.90 },   // 544.90
-  { nome: "Roda 130mm", roda: 625.00, pneu: 4.90 }    // 629.90
-      ]
+  { nome: "Roda 30mm",  preco: 39.90 },
+  { nome: "Roda 35mm",  preco: 47.90 },
+  { nome: "Roda 40mm",  preco: 54.90 },
+  { nome: "Roda 45mm",  preco: 61.90 },
+
+  { nome: "Roda 50mm",  preco: 67.90 },
+  { nome: "Roda 55mm",  preco: 79.90 },
+  { nome: "Roda 60mm",  preco: 92.90 },
+  { nome: "Roda 65mm",  preco: 106.90 },
+  { nome: "Roda 70mm",  preco: 119.90 },
+  { nome: "Roda 75mm",  preco: 139.90 },
+  { nome: "Roda 80mm",  preco: 159.90 },
+  { nome: "Roda 85mm",  preco: 179.90 },
+  { nome: "Roda 90mm",  preco: 214.90 },
+  { nome: "Roda 95mm",  preco: 239.90 },
+  { nome: "Roda 100mm", preco: 274.90 },
+  { nome: "Roda 105mm", preco: 324.90 },
+  { nome: "Roda 110mm", preco: 354.90 },
+  { nome: "Roda 115mm", preco: 389.90 },
+  { nome: "Roda 120mm", preco: 469.90 },
+  { nome: "Roda 125mm", preco: 544.90 },
+  { nome: "Roda 130mm", preco: 630.00 }
+],
     },
 
     {
@@ -60,28 +61,29 @@ function mostrarPopupCarrinho() {
       
       ],
       opcoes: [
-  { nome: "Roda 30mm",  roda: 35.00,  pneu: 4.90 },   // 39.90
-  { nome: "Roda 35mm",  roda: 43.00,  pneu: 4.90 },   // 47.90
-  { nome: "Roda 40mm",  roda: 50.00,  pneu: 4.90 },   // 54.90
-  { nome: "Roda 45mm",  roda: 57.00,  pneu: 4.90 },   // 61.90
-  { nome: "Roda 50mm",  roda: 63.00,  pneu: 4.90 },   // 67.90
-  { nome: "Roda 55mm",  roda: 75.00,  pneu: 4.90 },   // 79.90
-  { nome: "Roda 60mm",  roda: 88.00,  pneu: 4.90 },   // 92.90
-  { nome: "Roda 65mm",  roda: 102.00, pneu: 4.90 },   // 106.90
-  { nome: "Roda 70mm",  roda: 115.00, pneu: 4.90 },   // 119.90
-  { nome: "Roda 75mm",  roda: 135.00, pneu: 4.90 },   // 139.90
-  { nome: "Roda 80mm",  roda: 155.00, pneu: 4.90 },   // 159.90
-  { nome: "Roda 85mm",  roda: 175.00, pneu: 4.90 },   // 179.90
-  { nome: "Roda 90mm",  roda: 210.00, pneu: 4.90 },   // 214.90
-  { nome: "Roda 95mm",  roda: 235.00, pneu: 4.90 },   // 239.90
-  { nome: "Roda 100mm", roda: 270.00, pneu: 4.90 },   // 274.90
-  { nome: "Roda 105mm", roda: 320.00, pneu: 4.90 },   // 324.90
-  { nome: "Roda 110mm", roda: 350.00, pneu: 4.90 },   // 354.90
-  { nome: "Roda 115mm", roda: 385.00, pneu: 4.90 },   // 389.90
-  { nome: "Roda 120mm", roda: 465.00, pneu: 4.90 },   // 469.90
-  { nome: "Roda 125mm", roda: 540.00, pneu: 4.90 },   // 544.90
-  { nome: "Roda 130mm", roda: 625.00, pneu: 4.90 }    // 629.90
-      ]
+  { nome: "Roda 30mm",  preco: 39.90 },
+  { nome: "Roda 35mm",  preco: 47.90 },
+  { nome: "Roda 40mm",  preco: 54.90 },
+  { nome: "Roda 45mm",  preco: 61.90 },
+
+  { nome: "Roda 50mm",  preco: 67.90 },
+  { nome: "Roda 55mm",  preco: 79.90 },
+  { nome: "Roda 60mm",  preco: 92.90 },
+  { nome: "Roda 65mm",  preco: 106.90 },
+  { nome: "Roda 70mm",  preco: 119.90 },
+  { nome: "Roda 75mm",  preco: 139.90 },
+  { nome: "Roda 80mm",  preco: 159.90 },
+  { nome: "Roda 85mm",  preco: 179.90 },
+  { nome: "Roda 90mm",  preco: 214.90 },
+  { nome: "Roda 95mm",  preco: 239.90 },
+  { nome: "Roda 100mm", preco: 274.90 },
+  { nome: "Roda 105mm", preco: 324.90 },
+  { nome: "Roda 110mm", preco: 354.90 },
+  { nome: "Roda 115mm", preco: 389.90 },
+  { nome: "Roda 120mm", preco: 469.90 },
+  { nome: "Roda 125mm", preco: 544.90 },
+  { nome: "Roda 130mm", preco: 630.00 }
+],
     },
 
       {
@@ -94,28 +96,29 @@ function mostrarPopupCarrinho() {
       
       ],
       opcoes: [
-  { nome: "Roda 30mm",  roda: 35.00,  pneu: 4.90 },   // 39.90
-  { nome: "Roda 35mm",  roda: 43.00,  pneu: 4.90 },   // 47.90
-  { nome: "Roda 40mm",  roda: 50.00,  pneu: 4.90 },   // 54.90
-  { nome: "Roda 45mm",  roda: 57.00,  pneu: 4.90 },   // 61.90
-  { nome: "Roda 50mm",  roda: 63.00,  pneu: 4.90 },   // 67.90
-  { nome: "Roda 55mm",  roda: 75.00,  pneu: 4.90 },   // 79.90
-  { nome: "Roda 60mm",  roda: 88.00,  pneu: 4.90 },   // 92.90
-  { nome: "Roda 65mm",  roda: 102.00, pneu: 4.90 },   // 106.90
-  { nome: "Roda 70mm",  roda: 115.00, pneu: 4.90 },   // 119.90
-  { nome: "Roda 75mm",  roda: 135.00, pneu: 4.90 },   // 139.90
-  { nome: "Roda 80mm",  roda: 155.00, pneu: 4.90 },   // 159.90
-  { nome: "Roda 85mm",  roda: 175.00, pneu: 4.90 },   // 179.90
-  { nome: "Roda 90mm",  roda: 210.00, pneu: 4.90 },   // 214.90
-  { nome: "Roda 95mm",  roda: 235.00, pneu: 4.90 },   // 239.90
-  { nome: "Roda 100mm", roda: 270.00, pneu: 4.90 },   // 274.90
-  { nome: "Roda 105mm", roda: 320.00, pneu: 4.90 },   // 324.90
-  { nome: "Roda 110mm", roda: 350.00, pneu: 4.90 },   // 354.90
-  { nome: "Roda 115mm", roda: 385.00, pneu: 4.90 },   // 389.90
-  { nome: "Roda 120mm", roda: 465.00, pneu: 4.90 },   // 469.90
-  { nome: "Roda 125mm", roda: 540.00, pneu: 4.90 },   // 544.90
-  { nome: "Roda 130mm", roda: 625.00, pneu: 4.90 }    // 629.90
-      ]
+  { nome: "Roda 30mm",  preco: 39.90 },
+  { nome: "Roda 35mm",  preco: 47.90 },
+  { nome: "Roda 40mm",  preco: 54.90 },
+  { nome: "Roda 45mm",  preco: 61.90 },
+
+  { nome: "Roda 50mm",  preco: 67.90 },
+  { nome: "Roda 55mm",  preco: 79.90 },
+  { nome: "Roda 60mm",  preco: 92.90 },
+  { nome: "Roda 65mm",  preco: 106.90 },
+  { nome: "Roda 70mm",  preco: 119.90 },
+  { nome: "Roda 75mm",  preco: 139.90 },
+  { nome: "Roda 80mm",  preco: 159.90 },
+  { nome: "Roda 85mm",  preco: 179.90 },
+  { nome: "Roda 90mm",  preco: 214.90 },
+  { nome: "Roda 95mm",  preco: 239.90 },
+  { nome: "Roda 100mm", preco: 274.90 },
+  { nome: "Roda 105mm", preco: 324.90 },
+  { nome: "Roda 110mm", preco: 354.90 },
+  { nome: "Roda 115mm", preco: 389.90 },
+  { nome: "Roda 120mm", preco: 469.90 },
+  { nome: "Roda 125mm", preco: 544.90 },
+  { nome: "Roda 130mm", preco: 630.00 }
+],
     },
 
     {
@@ -128,28 +131,30 @@ function mostrarPopupCarrinho() {
 
       ],
       opcoes: [
-  { nome: "Roda 30mm",  roda: 35.00,  pneu: 4.90 },   // 39.90
-  { nome: "Roda 35mm",  roda: 43.00,  pneu: 4.90 },   // 47.90
-  { nome: "Roda 40mm",  roda: 50.00,  pneu: 4.90 },   // 54.90
-  { nome: "Roda 45mm",  roda: 57.00,  pneu: 4.90 },   // 61.90
-  { nome: "Roda 50mm",  roda: 63.00,  pneu: 4.90 },   // 67.90
-  { nome: "Roda 55mm",  roda: 75.00,  pneu: 4.90 },   // 79.90
-  { nome: "Roda 60mm",  roda: 88.00,  pneu: 4.90 },   // 92.90
-  { nome: "Roda 65mm",  roda: 102.00, pneu: 4.90 },   // 106.90
-  { nome: "Roda 70mm",  roda: 115.00, pneu: 4.90 },   // 119.90
-  { nome: "Roda 75mm",  roda: 135.00, pneu: 4.90 },   // 139.90
-  { nome: "Roda 80mm",  roda: 155.00, pneu: 4.90 },   // 159.90
-  { nome: "Roda 85mm",  roda: 175.00, pneu: 4.90 },   // 179.90
-  { nome: "Roda 90mm",  roda: 210.00, pneu: 4.90 },   // 214.90
-  { nome: "Roda 95mm",  roda: 235.00, pneu: 4.90 },   // 239.90
-  { nome: "Roda 100mm", roda: 270.00, pneu: 4.90 },   // 274.90
-  { nome: "Roda 105mm", roda: 320.00, pneu: 4.90 },   // 324.90
-  { nome: "Roda 110mm", roda: 350.00, pneu: 4.90 },   // 354.90
-  { nome: "Roda 115mm", roda: 385.00, pneu: 4.90 },   // 389.90
-  { nome: "Roda 120mm", roda: 465.00, pneu: 4.90 },   // 469.90
-  { nome: "Roda 125mm", roda: 540.00, pneu: 4.90 },   // 544.90
-  { nome: "Roda 130mm", roda: 625.00, pneu: 4.90 }    // 629.90
-      ]
+  { nome: "Roda 30mm",  preco: 39.90 },
+  { nome: "Roda 35mm",  preco: 47.90 },
+  { nome: "Roda 40mm",  preco: 54.90 },
+  { nome: "Roda 45mm",  preco: 61.90 },
+
+  { nome: "Roda 50mm",  preco: 67.90 },
+  { nome: "Roda 55mm",  preco: 79.90 },
+  { nome: "Roda 60mm",  preco: 92.90 },
+  { nome: "Roda 65mm",  preco: 106.90 },
+  { nome: "Roda 70mm",  preco: 119.90 },
+  { nome: "Roda 75mm",  preco: 139.90 },
+  { nome: "Roda 80mm",  preco: 159.90 },
+  { nome: "Roda 85mm",  preco: 179.90 },
+  { nome: "Roda 90mm",  preco: 214.90 },
+  { nome: "Roda 95mm",  preco: 239.90 },
+  { nome: "Roda 100mm", preco: 274.90 },
+  { nome: "Roda 105mm", preco: 324.90 },
+  { nome: "Roda 110mm", preco: 354.90 },
+  { nome: "Roda 115mm", preco: 389.90 },
+  { nome: "Roda 120mm", preco: 469.90 },
+  { nome: "Roda 125mm", preco: 544.90 },
+  { nome: "Roda 130mm", preco: 630.00 }
+],
+
     },
 
 
