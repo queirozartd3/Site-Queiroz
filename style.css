@@ -28,7 +28,7 @@ body::before {
     background-size: 200% 200%;
     filter: blur(30px);
     background-position: center;
-    background: linear-gradient(45deg, #7c3aed, #290277, #5c01f8); /* cor fixa parecida */
+    background: radial-gradient(circle, #252525 0%, #000000 100%); /* cor fixa parecida */
   }
 }
 
@@ -125,7 +125,7 @@ body::before {
       border: none;
     }
     .btn-add {
-  background: linear-gradient(145deg, #5500ff, #8945ff);
+  background: linear-gradient(145deg, #5500ff, #9456ff);
   color: #fff;
   padding: 10px 20px;
   border-radius: 30px;
