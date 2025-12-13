@@ -47,9 +47,9 @@ function mostrarPopupCarrinho() {
       nome: "Roda Lexani Advicate",
       descricao: "Roda produzida em impressão 3D, feita em resina e sem pintura, com pneus em ABS preto fosco. Disponível para eixo 2 mm, eixo sextavado ou pino adaptador. Suporte de eixo direto no pneu.",
       imagens: [
-        "Fotos/Rodas/Lexani_Advicate/lexani1.png",
-        "Fotos/Rodas/Lexani_Advicate/lexani2.png",
-        "Fotos/Rodas/Lexani_Advicate/lexani3.png",
+        "https://imgur.com/2StZCKv",
+        "https://imgur.com/fbI45Uw",
+        "https://imgur.com/zAX025u",
         
       ],
       opcoes: [
@@ -78,8 +78,8 @@ function mostrarPopupCarrinho() {
       nome: "Roda DUB S218",
       descricao: "Roda produzida em impressão 3D, feita em resina e sem pintura, com pneus em ABS preto fosco. Disponível para eixo 2 mm, eixo sextavado ou pino adaptador. Suporte de eixo direto no pneu.",
       imagens: [
-        "Fotos/Rodas/Dubs218/dub.png",
-        "Fotos/Rodas/Dubs218/dub2.png",
+        "https://imgur.com/undefined",
+        "https://imgur.com/fzE2FIA",
         "Fotos/Rodas/Dubs218/dub3.png",
         
       
