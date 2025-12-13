@@ -13,12 +13,14 @@ function mostrarPopupCarrinho() {
   const produtos = [
 
     {
-      nome: "Roda Impressa em 3D",
-      descricao: "Roda produzida em impressão 3D, feita em resina e sem pintura, com pneus em ABS preto fosco. Disponível com eixo de 2 mm ou pino adaptador.",
+      nome: "Roda DUB S218 sem Pintura",
+      descricao: "Roda produzida em impressão 3D, feita em resina e sem pintura, com pneus em ABS preto fosco. Disponível para eixo 2 mm, eixo sextavado ou pino adaptador. Suporte de eixo direto no pneu.",
       imagens: [
-        "Fotos/Suporte Controle.jpg",
-        "Fotos/Suporte Controle.jpg",
-        "Fotos/Suporte Controle.jpg"
+        "Fotos/Rodas/Dubs218/dub.png",
+        "Fotos/Rodas/Dubs218/dub2.png",
+        "Fotos/Rodas/Dubs218/dub.png",
+        
+      
       ],
       opcoes: [
          { nome: "Roda 50mm", preco: 55 + 12 },   // pneu estimado ≈ R$12
