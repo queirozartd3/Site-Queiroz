@@ -20,17 +20,15 @@ function mostrarPopupCarrinho() {
       nome: "Roda Dcent DW903",
       descricao: "Roda produzida em impressão 3D, feita em resina e sem pintura, com pneus em ABS preto fosco. Disponível para eixo 2 mm, eixo sextavado ou pino adaptador. Suporte de eixo direto no pneu.",
       imagens: [
-        "Fotos/Rodas/DW903/9031.png",
-        "Fotos/Rodas/DW903/9032.png",
-        "Fotos/Rodas/DW903/9033.png",
-
+        "Fotos/Rodas/9031.png",
+        "Fotos/Rodas/9032.png",
+        "Fotos/Rodas/9033.png",
       ],
       opcoes: [
   { nome: "Roda 30mm",  preco: 39.90 },
   { nome: "Roda 35mm",  preco: 47.90 },
   { nome: "Roda 40mm",  preco: 54.90 },
   { nome: "Roda 45mm",  preco: 61.90 },
-
   { nome: "Roda 50mm",  preco: 67.90 },
   { nome: "Roda 55mm",  preco: 79.90 },
   { nome: "Roda 60mm",  preco: 92.90 },
@@ -55,17 +53,15 @@ function mostrarPopupCarrinho() {
       nome: "Roda DUB S218",
       descricao: "Roda produzida em impressão 3D, feita em resina e sem pintura, com pneus em ABS preto fosco. Disponível para eixo 2 mm, eixo sextavado ou pino adaptador. Suporte de eixo direto no pneu.",
       imagens: [
-        "Fotos/Rodas/Dubs218/dub.png",
-        "Fotos/Rodas/Dubs218/dub2.png",
-        "Fotos/Rodas/Dubs218/dub3.png",
-      
+        "Fotos/Rodas/dub.png",
+        "Fotos/Rodas/dub2.png",
+        "Fotos/Rodas/dub3.png",    
       ],
       opcoes: [
   { nome: "Roda 30mm",  preco: 39.90 },
   { nome: "Roda 35mm",  preco: 47.90 },
   { nome: "Roda 40mm",  preco: 54.90 },
   { nome: "Roda 45mm",  preco: 61.90 },
-
   { nome: "Roda 50mm",  preco: 67.90 },
   { nome: "Roda 55mm",  preco: 79.90 },
   { nome: "Roda 60mm",  preco: 92.90 },
@@ -90,17 +86,15 @@ function mostrarPopupCarrinho() {
       nome: "Roda Lexani LX30",
       descricao: "Roda produzida em impressão 3D, feita em resina e sem pintura, com pneus em ABS preto fosco. Disponível para eixo 2 mm, eixo sextavado ou pino adaptador. Suporte de eixo direto no pneu.",
       imagens: [
-        "Fotos/Rodas/LexaniLX30/lx301.png",
-        "Fotos/Rodas/LexaniLX30/lx302.png",
-        "Fotos/Rodas/LexaniLX30/lx303.png",
-      
+        "Fotos/Rodas/lx301.png",
+        "Fotos/Rodas/lx302.png",
+        "Fotos/Rodas/lx303.png",
       ],
       opcoes: [
   { nome: "Roda 30mm",  preco: 39.90 },
   { nome: "Roda 35mm",  preco: 47.90 },
   { nome: "Roda 40mm",  preco: 54.90 },
   { nome: "Roda 45mm",  preco: 61.90 },
-
   { nome: "Roda 50mm",  preco: 67.90 },
   { nome: "Roda 55mm",  preco: 79.90 },
   { nome: "Roda 60mm",  preco: 92.90 },
@@ -128,14 +122,12 @@ function mostrarPopupCarrinho() {
         "Fotos/Rodas/LxAdvicate/lexani1.png",
         "Fotos/Rodas/LxAdvicate/lexani2.png",
         "Fotos/Rodas/LxAdvicate/lexani3.png",
-
       ],
       opcoes: [
   { nome: "Roda 30mm",  preco: 39.90 },
   { nome: "Roda 35mm",  preco: 47.90 },
   { nome: "Roda 40mm",  preco: 54.90 },
   { nome: "Roda 45mm",  preco: 61.90 },
-
   { nome: "Roda 50mm",  preco: 67.90 },
   { nome: "Roda 55mm",  preco: 79.90 },
   { nome: "Roda 60mm",  preco: 92.90 },
@@ -156,8 +148,6 @@ function mostrarPopupCarrinho() {
 ],
 
     },
-
-
     {
       nome: "Medio Grave com Pintura",
       descricao: "Medio Grave feitos em resina e pintados à mão, com detalhes realistas e acabamento fino.",
