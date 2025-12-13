@@ -48,9 +48,9 @@ function mostrarPopupCarrinho() {
       nome: "Roda Lexani Advicate",
       descricao: "Roda produzida em impressão 3D, feita em resina e sem pintura, com pneus em ABS preto fosco. Disponível para eixo 2 mm, eixo sextavado ou pino adaptador. Suporte de eixo direto no pneu.",
       imagens: [
-        "Fotos/Rodas/LexaniAdvicate/lexani1.png",
-        "Fotos/Rodas/LexaniAdvicate/lexani2.png",
-        "Fotos/Rodas/LexaniAdvicate/lexani3.png",
+        "Fotos/Rodas/LxAdvicate/lexani1.png",
+        "Fotos/Rodas/LxAdvicate/lexani2.png",
+        "Fotos/Rodas/LxAdvicate/lexani3.png",
 
       ],
       opcoes: [
