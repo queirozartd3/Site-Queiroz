@@ -14,63 +14,39 @@ function mostrarPopupCarrinho() {
 
 
 
-    {
-      nome: "Roda Lexani LX30",
-      descricao: "Roda produzida em impressão 3D, feita em resina e sem pintura, com pneus em ABS preto fosco. Disponível para eixo 2 mm, eixo sextavado ou pino adaptador. Suporte de eixo direto no pneu.",
-      imagens: [
-        "Fotos/Rodas/LexaniLX30/lx301.png",
-        "Fotos/Rodas/LexaniLX30/lx302.png",
-        "Fotos/Rodas/LexaniLX30/lx303.png",
-      
-      ],
-      opcoes: [
-  { nome: "Roda 50mm", preco: 55 + 12 },   // = 67
-  { nome: "Roda 55mm", preco: 65 + 15 },   // = 80
-  { nome: "Roda 60mm", preco: 75 + 18 },   // = 93
-  { nome: "Roda 65mm", preco: 85 + 22 },   // = 107
-  { nome: "Roda 70mm", preco: 95 + 25 },   // = 120
-  { nome: "Roda 75mm", preco: 110 + 30 },  // = 140
-  { nome: "Roda 80mm", preco: 125 + 34 },  // = 159
-  { nome: "Roda 85mm", preco: 140 + 40 },  // = 180
-  { nome: "Roda 90mm", preco: 170 + 45 },  // = 215
-  { nome: "Roda 95mm", preco: 190 + 50 },  // = 240
-  { nome: "Roda 100mm", preco: 220 + 55 }, // = 275
-  { nome: "Roda 105mm", preco: 260 + 65 }, // = 325
-  { nome: "Roda 110mm", preco: 285 + 70 }, // = 355
-  { nome: "Roda 115mm", preco: 310 + 80 }, // = 390
-  { nome: "Roda 120mm", preco: 380 + 90 }, // = 470
-  { nome: "Roda 125mm", preco: 450 + 95 }, // = 545
-  { nome: "Roda 130mm", preco: 520 + 110 } // = 630
-      ]
-    },
+  
 
-    {
-      nome: "Roda Lexani Advicate",
+        {
+      nome: "Roda Dcent DW903",
       descricao: "Roda produzida em impressão 3D, feita em resina e sem pintura, com pneus em ABS preto fosco. Disponível para eixo 2 mm, eixo sextavado ou pino adaptador. Suporte de eixo direto no pneu.",
       imagens: [
-        "Fotos/Rodas/LxAdvicate/lexani1.png",
-        "Fotos/Rodas/LxAdvicate/lexani2.png",
-        "Fotos/Rodas/LxAdvicate/lexani3.png",
+        "Fotos/Rodas/DW903/9031.png",
+        "Fotos/Rodas/DW903/9032.png",
+        "Fotos/Rodas/DW903/9033.png",
 
       ],
       opcoes: [
-  { nome: "Roda 50mm", preco: 55 + 12 },   // = 67
-  { nome: "Roda 55mm", preco: 65 + 15 },   // = 80
-  { nome: "Roda 60mm", preco: 75 + 18 },   // = 93
-  { nome: "Roda 65mm", preco: 85 + 22 },   // = 107
-  { nome: "Roda 70mm", preco: 95 + 25 },   // = 120
-  { nome: "Roda 75mm", preco: 110 + 30 },  // = 140
-  { nome: "Roda 80mm", preco: 125 + 34 },  // = 159
-  { nome: "Roda 85mm", preco: 140 + 40 },  // = 180
-  { nome: "Roda 90mm", preco: 170 + 45 },  // = 215
-  { nome: "Roda 95mm", preco: 190 + 50 },  // = 240
-  { nome: "Roda 100mm", preco: 220 + 55 }, // = 275
-  { nome: "Roda 105mm", preco: 260 + 65 }, // = 325
-  { nome: "Roda 110mm", preco: 285 + 70 }, // = 355
-  { nome: "Roda 115mm", preco: 310 + 80 }, // = 390
-  { nome: "Roda 120mm", preco: 380 + 90 }, // = 470
-  { nome: "Roda 125mm", preco: 450 + 95 }, // = 545
-  { nome: "Roda 130mm", preco: 520 + 110 } // = 630
+  { nome: "Roda 30mm",  roda: 35.00,  pneu: 4.90 },   // 39.90
+  { nome: "Roda 35mm",  roda: 43.00,  pneu: 4.90 },   // 47.90
+  { nome: "Roda 40mm",  roda: 50.00,  pneu: 4.90 },   // 54.90
+  { nome: "Roda 45mm",  roda: 57.00,  pneu: 4.90 },   // 61.90
+  { nome: "Roda 50mm",  roda: 63.00,  pneu: 4.90 },   // 67.90
+  { nome: "Roda 55mm",  roda: 75.00,  pneu: 4.90 },   // 79.90
+  { nome: "Roda 60mm",  roda: 88.00,  pneu: 4.90 },   // 92.90
+  { nome: "Roda 65mm",  roda: 102.00, pneu: 4.90 },   // 106.90
+  { nome: "Roda 70mm",  roda: 115.00, pneu: 4.90 },   // 119.90
+  { nome: "Roda 75mm",  roda: 135.00, pneu: 4.90 },   // 139.90
+  { nome: "Roda 80mm",  roda: 155.00, pneu: 4.90 },   // 159.90
+  { nome: "Roda 85mm",  roda: 175.00, pneu: 4.90 },   // 179.90
+  { nome: "Roda 90mm",  roda: 210.00, pneu: 4.90 },   // 214.90
+  { nome: "Roda 95mm",  roda: 235.00, pneu: 4.90 },   // 239.90
+  { nome: "Roda 100mm", roda: 270.00, pneu: 4.90 },   // 274.90
+  { nome: "Roda 105mm", roda: 320.00, pneu: 4.90 },   // 324.90
+  { nome: "Roda 110mm", roda: 350.00, pneu: 4.90 },   // 354.90
+  { nome: "Roda 115mm", roda: 385.00, pneu: 4.90 },   // 389.90
+  { nome: "Roda 120mm", roda: 465.00, pneu: 4.90 },   // 469.90
+  { nome: "Roda 125mm", roda: 540.00, pneu: 4.90 },   // 544.90
+  { nome: "Roda 130mm", roda: 625.00, pneu: 4.90 }    // 629.90
       ]
     },
 
@@ -84,25 +60,99 @@ function mostrarPopupCarrinho() {
       
       ],
       opcoes: [
-  { nome: "Roda 50mm", preco: 55 + 12 },   // = 67
-  { nome: "Roda 55mm", preco: 65 + 15 },   // = 80
-  { nome: "Roda 60mm", preco: 75 + 18 },   // = 93
-  { nome: "Roda 65mm", preco: 85 + 22 },   // = 107
-  { nome: "Roda 70mm", preco: 95 + 25 },   // = 120
-  { nome: "Roda 75mm", preco: 110 + 30 },  // = 140
-  { nome: "Roda 80mm", preco: 125 + 34 },  // = 159
-  { nome: "Roda 85mm", preco: 140 + 40 },  // = 180
-  { nome: "Roda 90mm", preco: 170 + 45 },  // = 215
-  { nome: "Roda 95mm", preco: 190 + 50 },  // = 240
-  { nome: "Roda 100mm", preco: 220 + 55 }, // = 275
-  { nome: "Roda 105mm", preco: 260 + 65 }, // = 325
-  { nome: "Roda 110mm", preco: 285 + 70 }, // = 355
-  { nome: "Roda 115mm", preco: 310 + 80 }, // = 390
-  { nome: "Roda 120mm", preco: 380 + 90 }, // = 470
-  { nome: "Roda 125mm", preco: 450 + 95 }, // = 545
-  { nome: "Roda 130mm", preco: 520 + 110 } // = 630
+  { nome: "Roda 30mm",  roda: 35.00,  pneu: 4.90 },   // 39.90
+  { nome: "Roda 35mm",  roda: 43.00,  pneu: 4.90 },   // 47.90
+  { nome: "Roda 40mm",  roda: 50.00,  pneu: 4.90 },   // 54.90
+  { nome: "Roda 45mm",  roda: 57.00,  pneu: 4.90 },   // 61.90
+  { nome: "Roda 50mm",  roda: 63.00,  pneu: 4.90 },   // 67.90
+  { nome: "Roda 55mm",  roda: 75.00,  pneu: 4.90 },   // 79.90
+  { nome: "Roda 60mm",  roda: 88.00,  pneu: 4.90 },   // 92.90
+  { nome: "Roda 65mm",  roda: 102.00, pneu: 4.90 },   // 106.90
+  { nome: "Roda 70mm",  roda: 115.00, pneu: 4.90 },   // 119.90
+  { nome: "Roda 75mm",  roda: 135.00, pneu: 4.90 },   // 139.90
+  { nome: "Roda 80mm",  roda: 155.00, pneu: 4.90 },   // 159.90
+  { nome: "Roda 85mm",  roda: 175.00, pneu: 4.90 },   // 179.90
+  { nome: "Roda 90mm",  roda: 210.00, pneu: 4.90 },   // 214.90
+  { nome: "Roda 95mm",  roda: 235.00, pneu: 4.90 },   // 239.90
+  { nome: "Roda 100mm", roda: 270.00, pneu: 4.90 },   // 274.90
+  { nome: "Roda 105mm", roda: 320.00, pneu: 4.90 },   // 324.90
+  { nome: "Roda 110mm", roda: 350.00, pneu: 4.90 },   // 354.90
+  { nome: "Roda 115mm", roda: 385.00, pneu: 4.90 },   // 389.90
+  { nome: "Roda 120mm", roda: 465.00, pneu: 4.90 },   // 469.90
+  { nome: "Roda 125mm", roda: 540.00, pneu: 4.90 },   // 544.90
+  { nome: "Roda 130mm", roda: 625.00, pneu: 4.90 }    // 629.90
       ]
     },
+
+      {
+      nome: "Roda Lexani LX30",
+      descricao: "Roda produzida em impressão 3D, feita em resina e sem pintura, com pneus em ABS preto fosco. Disponível para eixo 2 mm, eixo sextavado ou pino adaptador. Suporte de eixo direto no pneu.",
+      imagens: [
+        "Fotos/Rodas/LexaniLX30/lx301.png",
+        "Fotos/Rodas/LexaniLX30/lx302.png",
+        "Fotos/Rodas/LexaniLX30/lx303.png",
+      
+      ],
+      opcoes: [
+  { nome: "Roda 30mm",  roda: 35.00,  pneu: 4.90 },   // 39.90
+  { nome: "Roda 35mm",  roda: 43.00,  pneu: 4.90 },   // 47.90
+  { nome: "Roda 40mm",  roda: 50.00,  pneu: 4.90 },   // 54.90
+  { nome: "Roda 45mm",  roda: 57.00,  pneu: 4.90 },   // 61.90
+  { nome: "Roda 50mm",  roda: 63.00,  pneu: 4.90 },   // 67.90
+  { nome: "Roda 55mm",  roda: 75.00,  pneu: 4.90 },   // 79.90
+  { nome: "Roda 60mm",  roda: 88.00,  pneu: 4.90 },   // 92.90
+  { nome: "Roda 65mm",  roda: 102.00, pneu: 4.90 },   // 106.90
+  { nome: "Roda 70mm",  roda: 115.00, pneu: 4.90 },   // 119.90
+  { nome: "Roda 75mm",  roda: 135.00, pneu: 4.90 },   // 139.90
+  { nome: "Roda 80mm",  roda: 155.00, pneu: 4.90 },   // 159.90
+  { nome: "Roda 85mm",  roda: 175.00, pneu: 4.90 },   // 179.90
+  { nome: "Roda 90mm",  roda: 210.00, pneu: 4.90 },   // 214.90
+  { nome: "Roda 95mm",  roda: 235.00, pneu: 4.90 },   // 239.90
+  { nome: "Roda 100mm", roda: 270.00, pneu: 4.90 },   // 274.90
+  { nome: "Roda 105mm", roda: 320.00, pneu: 4.90 },   // 324.90
+  { nome: "Roda 110mm", roda: 350.00, pneu: 4.90 },   // 354.90
+  { nome: "Roda 115mm", roda: 385.00, pneu: 4.90 },   // 389.90
+  { nome: "Roda 120mm", roda: 465.00, pneu: 4.90 },   // 469.90
+  { nome: "Roda 125mm", roda: 540.00, pneu: 4.90 },   // 544.90
+  { nome: "Roda 130mm", roda: 625.00, pneu: 4.90 }    // 629.90
+      ]
+    },
+
+    {
+      nome: "Roda Lexani Advicate",
+      descricao: "Roda produzida em impressão 3D, feita em resina e sem pintura, com pneus em ABS preto fosco. Disponível para eixo 2 mm, eixo sextavado ou pino adaptador. Suporte de eixo direto no pneu.",
+      imagens: [
+        "Fotos/Rodas/LxAdvicate/lexani1.png",
+        "Fotos/Rodas/LxAdvicate/lexani2.png",
+        "Fotos/Rodas/LxAdvicate/lexani3.png",
+
+      ],
+      opcoes: [
+  { nome: "Roda 30mm",  roda: 35.00,  pneu: 4.90 },   // 39.90
+  { nome: "Roda 35mm",  roda: 43.00,  pneu: 4.90 },   // 47.90
+  { nome: "Roda 40mm",  roda: 50.00,  pneu: 4.90 },   // 54.90
+  { nome: "Roda 45mm",  roda: 57.00,  pneu: 4.90 },   // 61.90
+  { nome: "Roda 50mm",  roda: 63.00,  pneu: 4.90 },   // 67.90
+  { nome: "Roda 55mm",  roda: 75.00,  pneu: 4.90 },   // 79.90
+  { nome: "Roda 60mm",  roda: 88.00,  pneu: 4.90 },   // 92.90
+  { nome: "Roda 65mm",  roda: 102.00, pneu: 4.90 },   // 106.90
+  { nome: "Roda 70mm",  roda: 115.00, pneu: 4.90 },   // 119.90
+  { nome: "Roda 75mm",  roda: 135.00, pneu: 4.90 },   // 139.90
+  { nome: "Roda 80mm",  roda: 155.00, pneu: 4.90 },   // 159.90
+  { nome: "Roda 85mm",  roda: 175.00, pneu: 4.90 },   // 179.90
+  { nome: "Roda 90mm",  roda: 210.00, pneu: 4.90 },   // 214.90
+  { nome: "Roda 95mm",  roda: 235.00, pneu: 4.90 },   // 239.90
+  { nome: "Roda 100mm", roda: 270.00, pneu: 4.90 },   // 274.90
+  { nome: "Roda 105mm", roda: 320.00, pneu: 4.90 },   // 324.90
+  { nome: "Roda 110mm", roda: 350.00, pneu: 4.90 },   // 354.90
+  { nome: "Roda 115mm", roda: 385.00, pneu: 4.90 },   // 389.90
+  { nome: "Roda 120mm", roda: 465.00, pneu: 4.90 },   // 469.90
+  { nome: "Roda 125mm", roda: 540.00, pneu: 4.90 },   // 544.90
+  { nome: "Roda 130mm", roda: 625.00, pneu: 4.90 }    // 629.90
+      ]
+    },
+
+
     {
       nome: "Medio Grave com Pintura",
       descricao: "Medio Grave feitos em resina e pintados à mão, com detalhes realistas e acabamento fino.",
