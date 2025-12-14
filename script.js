@@ -171,7 +171,7 @@ function mostrarPopupCarrinho() {
       ]
     },
     {
-      nome: "Falate 6X9 com Pintura",
+      nome: "6X9 Zetta com Pintura",
       descricao: "Mini falantes 6x9 feitos em resina e pintados à mão, com detalhes realistas e acabamento fino.",
       imagens: [
         "Fotos/Som/zz6x91.png",
